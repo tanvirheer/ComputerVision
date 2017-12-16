@@ -1,7 +1,7 @@
 # ComputerVision
 #########################################################
 ## README
-## Tanvir Heer and Marco Carmona
+## Tanvir Heer
 ## CMPE 264
 ## Project 2
 ##
