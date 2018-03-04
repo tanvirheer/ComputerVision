@@ -1,5 +1,7 @@
-# ComputerVision
+# Computer Vision with openCV/Python
 ## Author: Tanvir Heer
+
+Below show the steps on how to setup files, calibration, and running the project.
 
 
 Part 1: Part1 folder contains 20 images that were used for calibration (pic1-pic20.png). Run file "python ./part1.py". Outputs are stored in mtx.out (Calibration Parameter) and dist.out (Distortion parameters). .npy files are used for file input/output in next parts.
