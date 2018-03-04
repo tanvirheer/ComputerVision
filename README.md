@@ -1,13 +1,6 @@
 # ComputerVision
-#########################################################
-## README
-## Tanvir Heer
-## CMPE 264
-## Project 2
-##
-## This README will try to address our steps that
-## we took to run the programs in parts 1-7
-#########################################################
+## Author: Tanvir Heer
+
 
 Part 1: Part1 folder contains 20 images that were used for calibration (pic1-pic20.png). Run file "python ./part1.py". Outputs are stored in mtx.out (Calibration Parameter) and dist.out (Distortion parameters). .npy files are used for file input/output in next parts.
 
